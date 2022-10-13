@@ -68,19 +68,6 @@ img{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-.content-page{
-    display: flex;
-    flex-direction: column;
-    width: 75%;
-}
-.content{
-    background-color: #7fdff5;
-    width: 100%;
-    height: auto;
-    display: flex;
-    min-height: 80vh;
-    flex-grow: 2;
-}
 .footer{
     background-color: skyblue;
     height: 10%;
@@ -91,31 +78,6 @@ img{
     justify-content: center;
     width: 75%;
     height: auto;
-}
-.textbox-bar{
-    width: 25%;
-    min-height: 80vh;
-    height: auto;
-    flex-direction: column;
-    justify-content: space-around;
-    gap: 0px;
-}
-.textbox{
-    flex-grow: 2;
-    justify-content: center;
-    flex-direction: column;
-    width: 95%;
-    padding-left: 5%;
-}
-#textbox-1{
-    top: 0;
-    background-color: #1eb7d9;
-
-}
-#textbox-2{
-    bottom: 0;
-    background-color: #11aacc;
-    
 }
 .credo-box{
     margin: 10px;
